@@ -1,2 +1,2 @@
-# r
+# R Language
 R Language resource
